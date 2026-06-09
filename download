@@ -1,0 +1,8 @@
+# MongoDB Atlas Connection String
+MONGO_URI=your_mongodb_connection_string_here
+
+# JWT Secret
+JWT_SECRET=your_jwt_secret_here
+
+# Server Port
+PORT=5000
